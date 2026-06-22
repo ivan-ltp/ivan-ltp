@@ -15,8 +15,8 @@ Here is Ivan@LTP.
 ## Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ivan-ltp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-ltp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160" src="https://raw.githubusercontent.com/ivan-ltp/ivan-ltp/output/stats.svg" />
+  <img height="160" src="https://raw.githubusercontent.com/ivan-ltp/ivan-ltp/output/top-langs.svg" />
 </div>
 
 ---
