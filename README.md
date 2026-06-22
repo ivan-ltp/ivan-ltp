@@ -14,10 +14,7 @@ Here is Ivan@LTP.
 
 ## Stats
 
-<div align="center">
-  <img height="160" src="https://raw.githubusercontent.com/ivan-ltp/ivan-ltp/output/stats.svg" />
-  <img height="160" src="https://raw.githubusercontent.com/ivan-ltp/ivan-ltp/output/top-langs.svg" />
-</div>
+<img height="160" src="https://raw.githubusercontent.com/ivan-ltp/ivan-ltp/output/stats.svg" />
 
 ---
 
