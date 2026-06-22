@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_merged_pull_requests=true
           path: dist/stats.svg
           token: ${{ secrets.SAGE_PAT }}
 
